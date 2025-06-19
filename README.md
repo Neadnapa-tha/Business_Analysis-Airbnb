@@ -46,14 +46,15 @@ Reference: http://insideairbnb.com/get-the-data
 
 - **การประมวลผลข้อมูล**: Alteryx
 
-ตัวอย่าง Alteryx Work Flow
+     ตัวอย่าง Alteryx Work Flow
 
   <img width="1377" alt="Screenshot 2568-06-19 at 18 23 36" src="https://github.com/user-attachments/assets/a6f4c788-074c-4844-9a71-f40d4b898641" />
   <img width="1377" alt="Screenshot 2568-06-19 at 18 23 53" src="https://github.com/user-attachments/assets/ad001f08-7078-4d89-bba2-c77abb808c13" />
+  
 
 - **การสร้างภาพและรายงาน**: Power BI
   
-ตัวอย่าง Power BI
+  ตัวอย่าง Power BI
 
 <img width="550" alt="Screenshot 2568-06-19 at 18 28 14" src="https://github.com/user-attachments/assets/175882dd-e577-4ddd-be7a-98dd9b0941d7" />
 <img width="1100" alt="Screenshot 2568-06-19 at 18 28 34" src="https://github.com/user-attachments/assets/e2273f9b-68b2-41eb-b16e-96c8add3d905" />
