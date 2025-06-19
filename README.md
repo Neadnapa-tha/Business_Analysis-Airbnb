@@ -51,7 +51,7 @@ Reference: http://insideairbnb.com/get-the-data
 - **การสร้างภาพและรายงาน**: Power BI
 ตัวอย่าง Power BI
 <img width="700" alt="Screenshot 2568-06-19 at 18 28 14" src="https://github.com/user-attachments/assets/175882dd-e577-4ddd-be7a-98dd9b0941d7" />
-<img width="935" alt="Screenshot 2568-06-19 at 18 28 34" src="https://github.com/user-attachments/assets/e2273f9b-68b2-41eb-b16e-96c8add3d905" />
+<img width="1100" alt="Screenshot 2568-06-19 at 18 28 34" src="https://github.com/user-attachments/assets/e2273f9b-68b2-41eb-b16e-96c8add3d905" />
 
 
 
