@@ -60,4 +60,4 @@ Reference: http://insideairbnb.com/get-the-data
 <img width="1100" alt="Screenshot 2568-06-19 at 18 28 34" src="https://github.com/user-attachments/assets/e2273f9b-68b2-41eb-b16e-96c8add3d905" />
 
 
-
+---
